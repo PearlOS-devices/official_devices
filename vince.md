@@ -14,4 +14,6 @@ ROM Side :
 > Fixed ScreenShot option not working in HW key remap
 
 Device Side :
-
+>Added Dab Kernel 3.18.138
+>Fixed:Ril
+>Added:Gcam
