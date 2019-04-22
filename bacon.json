@@ -1,14 +1,14 @@
 {
 	"response": [
     {
-		"filename": "Pearl-1.0-bacon-OFFICIAL-20190415-1444.zip",
+		"filename": "Pearl-2.0-bacon-OFFICIAL-20190422-1316.zip",
 		"maintainer": "Rahul Mishra",
-		"version": "1.0",
+		"version": "2.0",
 		"romtype": "Official",
-		"size": "407421919",
-		"datetime": 1555237981,
-		"id": "74a22e2193837cfc23aa36c5aba4c5dc4a96689b3babe86a1299e74793dc26e7",
-		"url": "https://sourceforge.net/projects/projectpearl/files/bacon/Pearl-1.0-bacon-OFFICIAL-20190415-1444.zip/download",
+		"size": "411192814",
+		"datetime": 1555789726,
+		"id": "df5f326bb4ed81bd366939778e37573f34ac62b8406884a1e0eae42d63e4e80d",
+		"url": "https://sourceforge.net/projects/projectpearl/files/bacon/Pearl-2.0-bacon-OFFICIAL-20190422-1316.zip /download",
 		"xda": "https://forum.xda-developers.com/oneplus-one/development/rom-project-pearl-t3914158"
 	}
   ]
