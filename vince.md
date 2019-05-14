@@ -1,19 +1,17 @@
 ROM Side :
-> Merged April patch coz up to date is needed
-> Introducing Android Q style clock in lockscreen coz booting Q is still far
-> Fixes for lockscreen items being white as black is love
-> Added Custom Lockscreen clock Styles coz everyone has those
-> Added Double tap to sleep on status bar as needed by us
-> Added Notification Ticker coz headsup are awful sometimes
-> Added Rolex as Official as we welcome everyone
-> Added new Day/night based theming system coz we lazy to change manually so created a way to do automatically
-> Added QS divider like OOS idk y
-> Some UI improvements so that it feels good
-> Changed Multitask to Misc but Still empty 
-> Added color pick from wallpaper for Q-lockscreen style
-> Fixed ScreenShot option not working in HW key remap
+> May Patch
+> Added 4g switch
+> Added volte switch 
+> Added Q battery icon
+> Added rssnr ignore toggle
+> Added notch support
+> Added Ticker
+> Added QS styles
+> Some minor UI changes
+> Some fixes here and there 
+> Added poco support as official Device
 
 Device Side :
->Added Dab Kernel 3.18.138
->Fixed:Ril
->Added:Gcam
+>Kernel Changed to Dark Ages 3.18.139
+
+
